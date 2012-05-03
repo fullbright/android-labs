@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="hello">Hello World, MoneyManagerBasicActivity!</string>
+    <string name="app_name">Money Manager Basic</string>
+    
+    <string name="txtResult">The number is</string>
+    <string name="txtCommand">Type a command</string>
+    
+	<string name="btnCommand">Validate command</string>
+	<string name="btnToggle">Toggle button</string>
+	<string name="btnAdd">Add one</string>
+    <string name="btnDel">Delete one</string>
+    <string name="btnSendEmail">Send Email</string>
+    
+</resources>
